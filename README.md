@@ -9,6 +9,12 @@
 >***Attention!***
 **If you want to compile it on windows, then use the command**```lime test windows -debug```**, otherwise you will encounter unknown errors!**
 
+<details><summary>Spoiler</summary>
+    <pre>
+    The program does not define anything, it is an illusion of your mistake =3
+    </pre>
+   </details>
+   
 # Credits
 **Scarlet Eye - Programmer, Visual effects**
 
