@@ -4,7 +4,7 @@
 **Your Error Diagnostics ~~or the lord of your .bat~~, that monitors for in "FNF': Psych Engine" errors**
 
 # Description
-**Here there is located source of the code, written in haxe "Error Diagnostics"**
+**Here there is located source of the code "Error Diagnostics", written in haxe for "Tails.Exe Redux"**
 
 ***Attention!***
 
