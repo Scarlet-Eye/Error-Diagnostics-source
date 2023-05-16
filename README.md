@@ -17,7 +17,7 @@
    
 # Credits
 ![Scarlet](/github/Scarlet.png)
-**Scarlet Eye - Programmer, Visual effects**
+>**Scarlet Eye - Programmer, Visual effects**
 
 ![Fluffy](/github/Fluffy.png)
-**FluffyDragonArt - Drew Tails.exe**
+>**FluffyDragonArt - Drew Tails.exe**
