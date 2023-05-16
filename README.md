@@ -1,7 +1,11 @@
 # Error Diagnostics
 ![Logo ERROR](/github/Logo.png)
 
-**Here there is located entire source of the code "Error Diagnostics"**
+**Here there is located source of the code, written in haxe "Error Diagnostics"**
+
+**Attention!**
+
+**If you want to compile it on windows, then use the command**```lime test windows -debug```
 
 # Credits
 
