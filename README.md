@@ -6,8 +6,7 @@
 # Description
 **Here there is located source of the code "Error Diagnostics", written in haxe for "Tails.Exe Redux"**
 
-***Attention!***
-
+>***Attention!***
 **If you want to compile it on windows, then use the command**```lime test windows -debug```**, otherwise you will encounter unknown errors!**
 
 # Credits
