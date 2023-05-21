@@ -1,1 +1,0 @@
-x=msgbox("ERROR", 4+12, "Sonic.exe")
