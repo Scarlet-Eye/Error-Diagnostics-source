@@ -1,4 +1,4 @@
-# $${\color{red}Error} \space {\color{black} Diagnostics}$$
+# $${\color{red}Error} \space {\color{black} Diagnostics}$$ $${\color{orange}(Haxe \space Edition)}$$
 
 ![Logo ERROR](/github/Logo.png)
 
