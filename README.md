@@ -1,9 +1,11 @@
-# $${\color{red}Error Diagnostics}$$
+# $${\color{red}Error} \space {\color{black} Diagnostics}$$
+
 ![Logo ERROR](/github/Logo.png)
 
 ![X](/github/X.png)
  
 ![Logo T.E Redux](https://github.com/Scarlet-Eye/Error-Diagnostics-source/blob/main/github/T.E%20Redux.gif)
+
 
 **Your Error Diagnostics ~~or the lord of your .bat~~, that monitors for in "Friday Night Funkin': Psych Engine" errors**
 
